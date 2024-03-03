@@ -6,6 +6,9 @@ body, html {
   min-height:100%;
   font: PT Sans 14px;
 }
+body, html *{
+font:Pt Sans 14px;
+}
 header *{
   display:inline-block;
 }
